@@ -7,7 +7,7 @@
 ## 🚀 Featured Projects
 
 - **Real Finder**  
-  Jazz Real Book song search using OCR + fuzzy matching. Not my most technical project, but my favorite. Let's talk jazz!
+  Jazz Real Book song search using OCR + fuzzy matching. Not my most technical project, but my favorite. Let's talk jazz!  
   [Demo](https://real-finder.vercel.app/) · [Code](https://github.com/diegotyner/Real-Finder)
 
 - **YT Playlist Website**  
