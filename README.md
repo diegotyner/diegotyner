@@ -4,11 +4,11 @@
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, HTML, CSS, Kotlin, Java, R, C++, C, C#
+**Languages:** Python, JavaScript, TypeScript, HTML, CSS, Kotlin, Java, R, C++, C, C#  
 **Frameworks/Libraries:** Next.js, React, Tailwind, FastAPI, Transformers, Pandas, NumPy, TensorFlow, PyTorch, scikit-learn  
-**Databases:** PostgreSQL, Supabase, MongoDB
+**Databases:** PostgreSQL, Supabase, MongoDB  
 **Tools & DevOps:** Docker, Git, Linux, Pytest, Selenium
 
 ---
@@ -37,7 +37,7 @@
 - Canvas Resource Semantic Search — scrape + embed + search course files. [Code](https://github.com/diegotyner/CanvasResourceSemanticSearch)
 - Deep Learning Repo — MLP, CNN, RNN, GNN models. [Code](https://github.com/bkhli/ecs189g-ML)
 - Hudl Downloader — Python tool to save streamed Hudl data. [Code](https://github.com/diegotyner/Hudl_Downloader)
-- Libby Downloader — Chrome extension for downloading Libby audiobook. [Code](https://github.com/diegotyner/LibbyDownloader)
+- Libby Downloader — Chrome extension for downloading Libby audiobooks. [Code](https://github.com/diegotyner/LibbyDownloader)
 - OCR Text Extractor — Web wrapper for OCR.space API. [Code](https://github.com/diegotyner/handwriting-wrapper)
 - Obsidian Vault Deployment — forked Quartz for publishing notes. [Code](https://github.com/diegotyner/Vault-Deployment)
 - NBA Playoffs Search Website — tool for finding YT games. [Code](https://github.com/diegotyner/PublicBasketballWebsite)
