@@ -4,6 +4,15 @@
 
 ---
 
+## Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, HTML, CSS, Kotlin, Java, R, C++, C, C#
+**Frameworks/Libraries:** Next.js, React, Tailwind, FastAPI, Transformers, Pandas, NumPy, TensorFlow, PyTorch, scikit-learn  
+**Databases:** PostgreSQL, Supabase, MongoDB
+**Tools & DevOps:** Docker, Git, Linux, Pytest, Selenium
+
+---
+
 ## 🚀 Featured Projects
 
 - **Real Finder**  
