@@ -24,8 +24,12 @@
   [Demo](https://yt-playlist-website.vercel.app/) · [Code](https://github.com/diegotyner/YT-Playlist-Website)
 
 - **News Dashboard**  
-  Full-stack project: Next.js frontend + FastAPI backend + pgvector DB. Features include scraping, bias detection, summarization, RAG.  
+  Full-stack project: Next.js frontend + dockerized FastAPI backend + pgvector DB. Features include scraping, bias detection, summarization, RAG.  
   [Demo](https://www.youtube.com/watch?v=KnU6oNDmrB8) · [Code](https://github.com/Lingotech-Davis/NewsDashboard)
+
+- **NeuroCrime Project**  
+  Cognitive neuroscience project combining EEG (OpenBCI) with PsychoPy-based experiments. Includes custom stimulus presentation, event alignment, and analysis pipeline (filtering, ICA, segmentation, evoked responses).  
+  [Poster](https://drive.google.com/file/d/1IcV2IrhfATR6CEAfNx07lX8Q189STZsD/view?usp=sharing) · [Code](https://github.com/Neurotech-Davis/NeuroCrime)
 
 ---
 
