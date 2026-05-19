@@ -1,6 +1,6 @@
 # Hey there!
 
-👋 I’m Diego Tyner, and I build tools ranging from scrapers and downloaders to full-stack apps and ML/NLP systems. For a more detailed rundown of my projects, see [my extended project notes](https://dtyner-vault.vercel.app/Coding/Project-Showcase).
+👋 I’m Diego Tyner, and I build tools ranging from scrapers and downloaders to full-stack apps and ML/NLP systems. For a more detailed rundown of my projects, see [my extended project notes](https://vault.tynerlab.com/Coding/Project-Showcase).
 
 ---
 
