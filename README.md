@@ -1,6 +1,6 @@
 # Hey there!
 
-👋 I’m Diego Tyner, and I build tools ranging from scrapers and downloaders to full-stack apps and ML/NLP systems. For a more detailed rundown of my projects, see [my extended project notes](https://vault.tynerlab.com/Coding/Project-Showcase).
+👋 I’m Diego Tyner, CS + Cognitive Science grad building tools ranging from full-stack apps and ML/NLP systems, from RAG pipelines to a multimodal brain-computer interface. For a more detailed rundown of my projects, see [my extended project notes](https://vault.tynerlab.com/Coding/Project-Showcase).
 
 ---
 
@@ -38,7 +38,7 @@
 <details>
   <summary>Click to expand</summary>
 
-- NeuroCrime - EEG experiment + analysis pipeline (ICA, segmentation, evoked responses). [Poster](https://drive.google.com/file/d/1IcV2IrhfATR6CEAfNx07lX8Q189STZsD/view?usp=sharing) · [Code](https://github.com/Neurotech-Davis/NeuroCrime)
+- NeuroCrime - EEG experiment + analysis pipeline (ICA, segmentation, evoked responses). [Poster](https://drive.google.com/file/d/1ZpxPfCE-MHGq4dlXGS0Z2tFfmMFJfQl1/view?usp=sharing) · [Code](https://github.com/Neurotech-Davis/NeuroCrime)
 - OCR Text Extractor - Web wrapper for OCR.space API. [Demo](https://text.tynerlab.com) · [Code](https://github.com/diegotyner/handwriting-wrapper)
 - Canvas Resource Semantic Search - scrape + embed + search course files. [Code](https://github.com/diegotyner/CanvasResourceSemanticSearch)
 - Deep Learning Repo - MLP, CNN, RNN, GNN models. [Code](https://github.com/bkhli/ecs189g-ML)
