@@ -1,6 +1,6 @@
 # Hey there!
 
-👋 I’m Diego Tyner, CS + Cognitive Science grad building tools ranging from full-stack apps and ML/NLP systems, from RAG pipelines to a multimodal brain-computer interface. For a more detailed rundown of my projects, see [my extended project notes](https://vault.tynerlab.com/Coding/Project-Showcase).
+👋 I’m Diego Tyner, a CS + Cognitive Science grad building tools ranging from full-stack apps and ML/NLP systems, to RAG pipelines and a multimodal brain-computer interface. For a more detailed rundown of my projects, see [my extended project notes](https://vault.tynerlab.com/Coding/Project-Showcase).
 
 ---
 
@@ -14,6 +14,9 @@
 ---
 
 ## 🚀 Featured Projects
+
+<details>
+  <summary>Click to expand</summary>
 
 - **Real Finder**  
   Jazz Real Book song search using OCR + fuzzy matching Vue frontend. Not my most technical project, but my favorite. Let's talk jazz!  
@@ -30,6 +33,8 @@
 - **YT Playlist Website**  
   Save & organize YouTube playlists with Next.js + Supabase.  
   [Demo](https://yt-playlist-website.vercel.app/) · [Code](https://github.com/diegotyner/YT-Playlist-Website)
+
+</details>
 
 ---
 
