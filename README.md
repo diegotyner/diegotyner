@@ -32,7 +32,7 @@
 
 - **YT Playlist Website**  
   Save & organize YouTube playlists with Next.js + Supabase.  
-  [Demo](https://yt-playlist-website.vercel.app/) · [Code](https://github.com/diegotyner/YT-Playlist-Website)
+  [Demo](https://playlists.tynerlab.com/) · [Code](https://github.com/diegotyner/YT-Playlist-Website)
 
 </details>
 
